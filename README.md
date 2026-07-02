@@ -1,6 +1,19 @@
 # 💫 About Me:
-I am a Computer Science student and Designer who sits at the intersection of aesthetics and functionality. With a strong foundation in UI Design and Graphic Design, I specialize in creating visually compelling and user-centric interfaces that I bring to life through code. My technical expertise spans full-stack web development using the Laravel framework, mobile app development in Android Studio, and versatile scripting with Python. I am passionate about bridging the gap between design and development—ensuring that every pixel serves a purpose and every application runs seamlessly. Whether I’m wireframing a new concept or architecting a database, I’m driven by a goal to build software that is as beautiful as it is efficient.
+# Hi, I'm Marc Arron 👋
 
+I'm a Computer Science student from the Philippines who enjoys turning ideas into software while continuously improving my skills as a developer.
+
+My interests are in software engineering, backend development, full-stack web development, and AI integration. I primarily work with Python and Java while exploring modern web technologies like React and PostgreSQL. I also have experience building mobile applications with Android Studio and enjoy creating clean, user-friendly interfaces through UI and graphic design.
+
+During my internship, I had the opportunity to work on real client projects, learn QCgi web development, collaborate with developers, and gain practical experience in debugging, problem-solving, and software implementation. Those experiences reinforced my passion for building reliable software and showed me how much there is still to learn.
+
+I'm currently following a personal **365-day Zero-to-Hero Software Engineering** journey where I study every day, build projects, practice data structures and algorithms, and improve my understanding of software engineering one step at a time.
+
+I believe that great software is built through curiosity, consistency, and continuous learning. My goal is to become a software engineer who creates applications that are practical, maintainable, and meaningful for the people who use them.
+
+Outside of coding, I enjoy designing interfaces, learning new technologies, and challenging myself with projects that push me beyond my comfort zone.
+
+**Always learning. Always building.**
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arronmarc18@gmail.com) 
