@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="astronaut2.gif" width="100%" alt="Pixel astronaut swinging his legs under colorful galaxies">
+  <img src="Astronaut2.gif" width="100%" alt="Pixel astronaut swinging his legs under colorful galaxies">
 </p>
 
 ```text
