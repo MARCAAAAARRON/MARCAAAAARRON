@@ -2,17 +2,20 @@
   <img src="Astronaut2.gif" width="100%" alt="Pixel astronaut swinging his legs under colorful galaxies">
 </p>
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│  MISSION CONTROL  ::  MARC ARRON                         │
-├──────────────────────────────────────────────────────────┤
-│  callsign   : MARCAAAAARRON                              │
-│  role       : Full-Stack Engineer · ML & AI Engineer     │
-│  home base  : Philippines                                │
-│  status     : IN ORBIT  (day-by-day, never skipping)     │
-│  motto      : Always learning. Always building.          │
-└──────────────────────────────────────────────────────────┘
-```
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MARCAAAAARRON/MARCAAAAARRON/output/dark_mode.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MARCAAAAARRON/MARCAAAAARRON/output/light_mode.svg"
+  />
+  <img
+    alt="ASCII profile card"
+    src="https://raw.githubusercontent.com/MARCAAAAARRON/MARCAAAAARRON/output/light_mode.svg"
+  />
+</picture>
 
 <p align="center">✦ &nbsp;·&nbsp; ✧ &nbsp;·&nbsp; ✦</p>
 
