@@ -38,10 +38,6 @@ I'm a Computer Science student who turns ideas into working software, from the d
 
 ## 🧪 Active Missions
 
-| Mission | Lab | Status |
-|:--------|:----|:-------|
-| ⚽ **AFC Nations League Predictor** | 🧠 Neural lab (AI / ML) | ![In progress](https://img.shields.io/badge/MISSION-IN_PROGRESS-f0ad4e?style=flat-square) |
-
 <!--
 WHEN THE PROJECT IS DONE, replace the badge above with this one:
 ![Mission success](https://img.shields.io/badge/MISSION-SUCCESS-2ea44f?style=flat-square)
@@ -77,13 +73,6 @@ Have an idea, a project, or something to build together? The channel is open.
   <a href="mailto:arronmarc18@gmail.com">
     <img src="https://img.shields.io/badge/TRANSMIT_A_MESSAGE-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <sub>🌌 Signal received: </sub>
-  <img src="https://komarev.com/ghpvc/?username=MARCAAAAARRON&icon=0&color=0&label=VISITORS" alt="Profile Views" />
 </p>
 
 ---
