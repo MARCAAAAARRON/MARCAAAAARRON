@@ -31,7 +31,7 @@ I'm a Computer Science student who turns ideas into working software, from the d
 ## 🚀 Flight Manifest
 
 <p align="center">
-  <img src="assets/flight-manifest-card.svg" width="100%" alt="Flight Manifest: tech stack">
+  <img src="flight-manifest-card.svg" width="100%" alt="Flight Manifest: tech stack">
 </p>
 
 <p align="center">✦ &nbsp;·&nbsp; ✧ &nbsp;·&nbsp; ✦</p>
