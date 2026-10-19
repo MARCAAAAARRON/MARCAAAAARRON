@@ -36,7 +36,6 @@ I'm a Computer Science student who turns ideas into working software, from the d
 
 <p align="center">✦ &nbsp;·&nbsp; ✧ &nbsp;·&nbsp; ✦</p>
 
-## 🧪 Active Missions
 
 <!--
 WHEN THE PROJECT IS DONE, replace the badge above with this one:
