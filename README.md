@@ -2,20 +2,9 @@
   <img src="Astronaut2.gif" width="100%" alt="Pixel astronaut swinging his legs under colorful galaxies">
 </p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/MARCAAAAARRON/MARCAAAAARRON/output/dark_mode.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/MARCAAAAARRON/MARCAAAAARRON/output/light_mode.svg"
-  />
-  <img
-    alt="ASCII profile card"
-    src="https://raw.githubusercontent.com/MARCAAAAARRON/MARCAAAAARRON/output/light_mode.svg"
-  />
-</picture>
+<p align="center">
+  <img src="mission-control-card.svg" width="100%" alt="Mission Control :: Marc Arron">
+</p>
 
 <p align="center">✦ &nbsp;·&nbsp; ✧ &nbsp;·&nbsp; ✦</p>
 
