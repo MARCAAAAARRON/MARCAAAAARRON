@@ -90,4 +90,10 @@ Have an idea, a project, or something to build together? The channel is open.
   <img src="https://komarev.com/ghpvc/?username=MARCAAAAARRON&icon=0&color=0&label=VISITORS" alt="Profile Views" />
 </p>
 
+---
+
+<p align="center">
+  <img src="Astronaut_Rocket.gif" width="100%" alt="Pixel astronaut swinging his legs under colorful galaxies">
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
