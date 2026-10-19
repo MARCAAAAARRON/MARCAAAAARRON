@@ -23,13 +23,8 @@ jobs:
           config: |
             card:
               lines:
-                 - { type: header, text: 'Marc Arron C. Nepomuceno' }
+                - { type: header, text: 'Marc Arron C. Nepomuceno' }
                 - { type: kv, key: Role, value: 'Computer Science student & developer' }
                 - { type: kv, key: Focus, value: 'Full-stack, local AI tooling' }
-                - { type: blank }
                 - { type: section, title: 'GitHub stats' }
-                - { type: kv, key: Repos, value: '{repos}' }
                 - { type: kv, key: Stars, value: '{stars}' }
-                - { type: kv, key: Followers, value: '{followers}' }
-                - { type: kv, key: Contributions, value: '{contributions}' }
-                - { type: kv, key: Languages, value: '{topLanguages}' }
