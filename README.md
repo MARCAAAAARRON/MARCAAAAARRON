@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Astronaut.gif" width="100%" alt="Pixel astronaut swinging his legs under colorful galaxies">
+</p>
+
 # 💫 About Me:
 # Hi, I'm Marc Arron 👋
 
